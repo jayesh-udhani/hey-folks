@@ -1,2 +1,5 @@
 # hey-folks
-My first repo
+
+This is my first repository.
+
+Welcome to the world of Open Source.
