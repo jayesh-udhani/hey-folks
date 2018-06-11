@@ -2,4 +2,4 @@
 
 This is my first repository.
 
-Welcome to the world of Open Source.
+It is meant for learning purposes.
